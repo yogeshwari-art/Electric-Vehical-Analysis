@@ -1,6 +1,8 @@
 # Electric-Vehical-Analysis
 
 # KPI Requirment
+Dataset used: <a href ="https://github.com/yogeshwari-art/Electric-Vehical-Analysis/blob/main/Electric_Vehicle_Population_Data.xlsx"> Electric Vehical</a>
+
 Total Vehicles:
 1. Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 2. Average Electric Range:
@@ -12,7 +14,7 @@ Calculate the percentage of BEVs relative to the total number of electric vehicl
 Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
-# Chart Requirments
+# Chart Requirments: 
 1. Total Vehicles by Model Year (From 2010 Onwards):
 Visualization: Line/ Area Chart
 Description: This chart will illustrate the distribution of electric vehicles over the years, starting from 2010, providing insights into the growth pattern and adoption trends.
@@ -28,4 +30,4 @@ Description: Illustrate the proportion of electric vehicles that are eligible fo
 5. Top 10 Total Vehicles by Model:
 Visualization: Tree map
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
-<img width="3127" height="711" alt="image" src="https://github.com/user-attachments/assets/f22323eb-68ea-4efb-a7f2-fdbceb7bb5c8" />
+
